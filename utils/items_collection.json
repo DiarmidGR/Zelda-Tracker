@@ -1,0 +1,78 @@
+{
+    "heading": "Outset Island",
+    "entries": [
+        {
+            "id": "rupee-100-home",
+            "itemRef": null,
+            "checkbox": "false",
+            "filters": null,
+            "description": "Below the porch of your house.",
+            "name": "100 Rupees",
+            "type": null
+        },
+        {
+            "id": "info-rose-pigs",
+            "itemRef": null,
+            "checkbox": "false",
+            "filters": "heartpieces",
+            "description": "Bring Rose three pigs (required for {{hp-pig}}, though you can do it later too).",
+            "name": null,
+            "type": null
+        },
+        {
+            "id": "telescope",
+            "itemRef": "telescope",
+            "checkbox": "false",
+            "filters": "mandatory",
+            "description": "Mandatory.",
+            "name": null,
+            "type": null
+        },
+        {
+            "id": "herossword",
+            "itemRef": "sword",
+            "checkbox": "false",
+            "filters": "mandatory",
+            "description": "Mandatory.",
+            "name": null,
+            "type": null
+        },
+        {
+            "id": "herosshield",
+            "itemRef": "shield",
+            "checkbox": "false",
+            "filters": "mandatory",
+            "description": "Mandatory.",
+            "name": null,
+            "type": null
+        },
+        {
+            "id": "bag-bait",
+            "itemRef": "bag-bait",
+            "checkbox": null,
+            "filters": null,
+            "description": "Purchase from Beedle before you leave (20 Rupees). You should purchase some All-Purpose Bait too, and preferably a Hyoi Pear or two.",
+            "name": null,
+            "type": null
+        },
+        {
+            "id": null,
+            "itemRef": null,
+            "checkbox": null,
+            "filters": null,
+            "description": null,
+            "name": null,
+            "type": "subheading",
+            "title": "Pirate Ship"
+        },
+        {
+            "id": "bag-spoils",
+            "itemRef": "bag-spoils",
+            "checkbox": "false",
+            "filters": "mandatory",
+            "description": "Mandatory.",
+            "name": null,
+            "type": null
+        }
+    ]
+}

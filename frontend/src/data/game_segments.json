@@ -1,0 +1,2292 @@
+{
+    "outset": {
+        "header": "Outset Island",
+        "entries": [
+            {
+                "id": "rupee-100-home",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Below the porch of your house.",
+                "name": "100 Rupees"
+            },
+            {
+                "id": "info-rose-pigs",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": "heartpieces",
+                "type": null,
+                "subheader": null,
+                "description": "Bring Rose three pigs (required for {{hp-pig}}, though you can do it later too).",
+                "name": null
+            },
+            {
+                "id": "telescope",
+                "itemRef": "telescope",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "herossword",
+                "itemRef": "sword",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "herosshield",
+                "itemRef": "shield",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "bag-bait",
+                "itemRef": "bag-bait",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Purchase from Beedle before you leave (20 Rupees). You should purchase some All-Purpose Bait too, and preferably a Hyoi Pear or two.",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "Pirate Ship",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "bag-spoils",
+                "itemRef": "bag-spoils",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            }
+        ]
+    },
+    "forsakenfortress": {
+        "header": "Forsaken Fortress",
+        "entries": [
+            {
+                "id": "piratescharm",
+                "itemRef": "piratescharm",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "forsakenfortress-map",
+                "itemRef": "dungeonmap",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Southwest on the second floor, down the slope from the prison cell.",
+                "name": null
+            },
+            {
+                "id": "hp-forsakenfortress",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Southwest on the first floor (in the same room as the Dungeon Map). Step on the switch behind the barrels in the corner.",
+                "name": null
+            },
+            {
+                "id": "forsakenfortress-compass",
+                "itemRef": "compass",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Southeast on the second floor.",
+                "name": null
+            }
+        ]
+    },
+    "windfallisland": {
+        "header": "Windfall Island",
+        "entries": [
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "Arrival and important stuff",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "tinglebottle",
+                "itemRef": "tinglebottle",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "chart-tingle",
+                "itemRef": "chart-tingle",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "pictobox",
+                "itemRef": "pictobox",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "After getting the Tingle Bottle, crawl into the hole behind the crate and get it from the chest at the end (left, right, left, right, right at the end, straight until you get out).",
+                "name": null
+            },
+            {
+                "id": "sail",
+                "itemRef": "sail",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory (at some point), purchase from Zunari (80 Rupees).",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "Side Quests",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "hp-squidgame",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Beat Salvatore's Sinking Ships.",
+                "name": null
+            },
+            {
+                "id": "chart-7",
+                "itemRef": "chart-7",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Beat Salvatore's Sinking Ships for the second time.",
+                "name": null
+            },
+            {
+                "id": "chart-23",
+                "itemRef": "chart-23",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Beat Salvatore's Sinking Ships using at most 20 cannonballs.",
+                "name": null
+            },
+            {
+                "id": "hp-killerbees",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Speak to Mrs. Marie inside the school and play hide-and-seek with the Killer Bees (the kids). Their locations are: 1) Across from where Linda is standing, outside the archway, behind some bushes. 2) In the big tree near the docks. 3) Behind the gravestone near Windfall Island Jail. 4) Behind the Bomb Shop at the docks.",
+                "name": null
+            },
+            {
+                "id": "deluxepictobox",
+                "itemRef": "pictobox",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Take the three pictures Lenzo wants: 1) Garrickson mailing a letter. He's the guy with red clothes and a moustache who starts walking from outside Lenzo's house when you exit. You can hide near the Postbox by the docks and wait for him. 2) Gossack being frightened. Walk into the bar and knock down a jar or cup to scare him. 3) Anton and Linda looking at each other. Just stand outside Lenzo's shop and wait for Anton to come and look at Linda, who's standing outside Salvatore's Game Shop. Note that the Killer Bees may block the view and ruin the shot.",
+                "name": null
+            },
+            {
+                "id": "chart-33",
+                "itemRef": "chart-33",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Take a picture of Minenco (the lady outside the Chu Jelly Juice Shop during the day) and show her the picture.",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "Pawprint Isle [E2]",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "chart-34",
+                "itemRef": "chart-34",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Speak to the divers near the island.",
+                "name": null
+            },
+            {
+                "id": "hp-pawprint",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the dome at the center of the island.",
+                "name": null
+            }
+        ]
+    },
+    "dragonroostisland": {
+        "header": "Dragon Roost Island",
+        "entries": [
+            {
+                "id": "windwaker",
+                "itemRef": "windwaker",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "bag-delivery",
+                "itemRef": "bag-delivery",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "hp-lettersorting",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Play the letter sorting game with Koboli and manage at least 25 letters. Repeat with Baito later (you might have to push the block down by the beach to allow Baito to get inside the island). Deliver his Note to Mom and you'll get the Piece of Heart in a reply later.",
+                "name": null
+            },
+            {
+                "id": "bottle-dragonroost",
+                "itemRef": "bottles",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            }
+        ]
+    },
+    "dragonroostcavern": {
+        "header": "Dragon Roost Cavern",
+        "entries": [
+            {
+                "id": "dragonroostcavern-map",
+                "itemRef": "dungeonmap",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Hard to miss. In the room where you first have to throw water urns in the lava.",
+                "name": null
+            },
+            {
+                "id": "dragonroostcavern-compass",
+                "itemRef": "compass",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Hard to miss. When you first get to the second floor, in the room with the rats.",
+                "name": null
+            },
+            {
+                "id": "chart-39",
+                "itemRef": "chart-39",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "On the second floor, in a small room with many pots that you get to after having walked across a bridge in the large main room. Light the torch using a Boko Stick.",
+                "name": null
+            },
+            {
+                "id": "grapplinghook",
+                "itemRef": "hook",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "chart-11",
+                "itemRef": "chart-11",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In a western room on the first floor with several Red ChuChus. Throw a burning Boko Stick to remove the boards across a lava pit, and swing across with your Grappling Hook.",
+                "name": null
+            },
+            {
+                "id": "info-grind-goldenfeathers",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": "heartpieces",
+                "type": null,
+                "subheader": null,
+                "description": "You need 20 Golden Feathers to get {{hp-goldenfeathers}} and 100 Rupees. If you want, you can farm Golden Feathers at the northern end of the second floor. Exit outside, use the Grappling Hook to grab a Golden Feather from the Kargaroc, go inside again, and repeat.",
+                "name": null
+            },
+            {
+                "id": "dragonroostcavern-heartcontainer",
+                "itemRef": "heartcontainer",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "After defeating the boss.",
+                "name": null
+            },
+            {
+                "id": "pearl-din",
+                "itemRef": "pearl-din",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            }
+        ]
+    },
+    "afterdragonroost": {
+        "header": "After Dragon Roost Cavern",
+        "entries": [
+            {
+                "id": "info-afterdragonroost",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "You have to point the wind south before you can board the King of Red Lions, but you can change the direction afterwards. You are, however, limited to visiting the islands in the straight lines between Windfall Island [D2], Dragon Roost Island [F2] and Forest Haven [F6].",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "Dragon Roost Island",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "song-wind",
+                "itemRef": "song-wind",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "hp-goldenfeathers",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Bring 20 Golden Feathers to Hoskit (the guard outside the Chieftain's cave). You get 100 Rupees now and the Piece of Heart in a Postbox later.",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "Windfall Island [D2]",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "song-passing",
+                "itemRef": "song-passing",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Show the Wind Waker to Tott (the dancer by the gravestone) and follow his moves.",
+                "name": null
+            },
+            {
+                "id": "hp-antonlinda",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Talk to Anton and Linda a couple of times, take the picture Linda asks and give it to Anton, then talk to them in the caf\u00e9 the next day.",
+                "name": null
+            },
+            {
+                "id": "chart-31",
+                "itemRef": "chart-31",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Show a color picture of the full moon to the man sitting on the steps outside the House of Wealth.",
+                "name": null
+            },
+            {
+                "id": "sail-swift",
+                "itemRef": "sail",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Random item in the auction at night in the House of Wealth (200-300 Rupees).",
+                "name": null
+            },
+            {
+                "id": "hp-auction",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Random item in the auction at night in the House of Wealth (160-180 Rupees).",
+                "name": null
+            },
+            {
+                "id": "chart-38",
+                "itemRef": "chart-38",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Random item in the auction at night in the House of Wealth (110-130 Rupees).",
+                "name": null
+            },
+            {
+                "id": "chart-18",
+                "itemRef": "chart-18",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Random item in the auction at night in the House of Wealth (110-130 Rupees).",
+                "name": null
+            },
+            {
+                "id": "hp-townflowers",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Place Town Flowers (or anything else) from Zunari's shop on all the 14 Joy Pedestals all over the island (requires 130 Rupees) and talk to the guy at the bench by the three Joy Pedestals. There are two pedestals by the shop, three by the bench near the shop, two on the wooden platform overlooking the Auction House, one by the Chu Jelly shop, and six on the white arch/wall by the entrance to the village.",
+                "name": null
+            },
+            {
+                "id": "info-tradingsequence-townflower",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Purchase another Town Flower for the trading sequence later (required for {{magicarmor}} and {{hp-tradingsequence}}).",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "Bomb Island [F5]",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "bottle-bombisland",
+                "itemRef": "bottles",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the submarine southwest of the island.",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "Forest Haven [F6]",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "hp-chart-31",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the waters outside Forest Haven.",
+                "name": null
+            },
+            {
+                "id": "dekuleaf",
+                "itemRef": "dekuleaf",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            }
+        ]
+    },
+    "forbiddenwoods": {
+        "header": "Forbidden Woods",
+        "entries": [
+            {
+                "id": "forbiddenwoods-map",
+                "itemRef": "dungeonmap",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Hard to miss. In the first room.",
+                "name": null
+            },
+            {
+                "id": "forbiddenwoods-compass",
+                "itemRef": "compass",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Hard to miss. In the spiky tentacle maze room.",
+                "name": null
+            },
+            {
+                "id": "boomerang",
+                "itemRef": "boomerang",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "chart-1",
+                "itemRef": "chart-1",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the upper floor of the tall second room of the dungeon, to the south.",
+                "name": null
+            },
+            {
+                "id": "chart-15",
+                "itemRef": "chart-15",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the northern room in the basement.",
+                "name": null
+            },
+            {
+                "id": "forbidenwoods-heartcontainer",
+                "itemRef": "heartcontainer",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "After defeating the boss.",
+                "name": null
+            },
+            {
+                "id": "pearl-farore",
+                "itemRef": "pearl-farore",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            }
+        ]
+    },
+    "pearl-nayru-goodies": {
+        "header": "Nayru's Pearl and lots of Great Sea goodies",
+        "entries": [
+            {
+                "id": "info-greatsea-opened",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "The whole Great Sea is now opened to you, and there is a LOT of stuff you can get. This guide will follow the story just a bit more until you get the Bombs, which allows you to get the two wallet upgrades, which are very helpful in the rest of this section.",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "Forest Haven [F6]",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "info-bluepotion",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "You can get a Blue Potion (which fully restores hearts and magic) if you show Boko Baba Seeds to Hollo inside his Potion Shop.",
+                "name": null
+            },
+            {
+                "id": "chart-3",
+                "itemRef": "chart-3",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "On an island to the southeast of the upper exit from Forest Haven. Float with the Deku Leaf.",
+                "name": null
+            },
+            {
+                "id": "hp-postbox-afterforbiddenwoods",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the Postbox.",
+                "name": null
+            },
+            {
+                "id": "info-bait-afterforbiddenwoods",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Don't forget to stock up on All-Purpose Bait and unlock the Great Sea Map as you travel.",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "Via Greatfish to Windfall",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "bigocto-privateoasis",
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Private Oasis [E5], defeat the Big Octo.",
+                "name": "100 Rupees"
+            },
+            {
+                "id": "hp-sixeyereef-3",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Six-Eye Reef [D4], In the submarine to the southeast.",
+                "name": null
+            },
+            {
+                "id": "hp-greatfish",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Greatfish Isle [B4], climb the spiraling mountain to the southeast and float northwest.",
+                "name": null
+            },
+            {
+                "id": "info-tradingsequence-exoticflower",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "While on Greatfish Isle [B4], trade the Town Flower for a Sea Flower, and trade it back for an Exotic Flower (required for the {{magicarmor}} and {{hp-tradingsequence}}).",
+                "name": null
+            },
+            {
+                "id": "info-bottle-rockspire",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Rock Spire Isle [B3]: If you have 500 Rupees now, you can purchase {{bottle-beedle}} from Beedle. It will be covered properly later in this section, when you should have a lot more Rupees.",
+                "name": null
+            },
+            {
+                "id": "hp-bigocto-tingle",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Tingle Island [C3], defeat the Big Octo north of the island.",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "Windfall Island [D2]",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "chart-29",
+                "itemRef": "chart-29",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Activate the Ferris Wheel, then use it to float to the balcony of the Picto Shop. The chart is in a chest inside.",
+                "name": null
+            },
+            {
+                "id": "info-picture-chart-24",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": "rupeecharts",
+                "type": null,
+                "subheader": null,
+                "description": "After having entered the Picto Shop through the balcony, take a picture of the couple on the first floor. Take care not to be seen. (Required for {{chart-24}} leading to 200 Rupees.)",
+                "name": null
+            },
+            {
+                "id": "bombs",
+                "itemRef": "bombs",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory (at some point).",
+                "name": null
+            },
+            {
+                "id": "chart-beedle",
+                "itemRef": "chart-beedle",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the Postbox after getting the Bombs.",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "Toward Outset Island",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "wallet-bigger",
+                "itemRef": "wallet",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "From the Great Fairy on Northern Fairy Island [C1].",
+                "name": null
+            },
+            {
+                "id": "chart-22",
+                "itemRef": "chart-22",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Northern Fairy Island [C1], inside the sub to the northwest of the island. You can swing across without fighting the enemies.",
+                "name": null
+            },
+            {
+                "id": "hp-starisland",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Star Island [B1], bomb the rock to the southwest, drop down and defeat the enemies.",
+                "name": null
+            },
+            {
+                "id": "info-beedle-special",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "If you can afford anything from Beedle's special shop at Rock Spire Isle [B3], feel free to purchase it now. The items will be covered properly at the end of this section, when you should have a lot more Rupees. {{bottle-beedle}} costs 500 Rupees, {{chart-4}} (leading to {{hp-chart-4}}) costs 900 Rupees, and {{hp-beedle}} costs 950 Rupees.",
+                "name": null
+            },
+            {
+                "id": "chart-37",
+                "itemRef": "chart-37",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Inside the cave on Rock Spire Isle [B3].",
+                "name": null
+            },
+            {
+                "id": "hp-rockspire-enemies",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Rock Spire Isle [B3], destroy the two ships south of the island.",
+                "name": null
+            },
+            {
+                "id": "hp-chart-38",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the waters outside Three-Eye Reef [A4].",
+                "name": null
+            },
+            {
+                "id": "hp-needlerock-seagull",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Needle Rock Isle [A5], use a Hyoi Pear to navigate a seagull to the top of the tower and hit the switch. (If the Kargarocs are to annoying, return here after you've gotten the {{fireicearrows}} and try to shoot the top of the tower using a Fire Arrow.)",
+                "name": null
+            },
+            {
+                "id": "hp-chart-23",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the waters outside Diamond Steppe Island [A6].",
+                "name": null
+            },
+            {
+                "id": "bigocto-diamondsteppe",
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Diamond Steppe Island [A6], defeat the Big Octo.",
+                "name": "100 Rupees"
+            },
+            {
+                "id": "chart-8",
+                "itemRef": "chart-8",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Horseshoe Island [A7], in the cave at the top of the island.",
+                "name": null
+            },
+            {
+                "id": "chart-28",
+                "itemRef": "chart-28",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Horseshoe Island [A7], on the rock in the center of the island.",
+                "name": null
+            },
+            {
+                "id": "chart-43",
+                "itemRef": "chart-43",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Horseshoe Island [A7], step on the switches on the platforms east of the island.",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "Outset Island [B7]",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "wallet-biggest",
+                "itemRef": "wallet",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the Forest of Fairies (where you found Tetra), blow up the big rock.",
+                "name": null
+            },
+            {
+                "id": "info-elixirsoup",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Capture a Fairy where you got the {{wallet-biggest}} and heal your Grandmother with it to get access to Elixir Soup.",
+                "name": null
+            },
+            {
+                "id": "hp-orca",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Train with Orca and hit him 500 times (you only get Rupees for 100 and 300 hits).",
+                "name": null
+            },
+            {
+                "id": "pearl-nayru",
+                "itemRef": "pearl-nayru",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "Lots and lots of goodies",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "hp-headstone",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Headstone Island [C7], use a Hyoi Pear and get it from the top of the island.",
+                "name": null
+            },
+            {
+                "id": "chart-14",
+                "itemRef": "chart-14",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Headstone Island [C7], in the submarine northwest of the island.",
+                "name": null
+            },
+            {
+                "id": "doublemagic",
+                "itemRef": "doublemagic",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Two-Eye Reef [D7], defeat the Big Octo.",
+                "name": null
+            },
+            {
+                "id": "chart-40",
+                "itemRef": "chart-40",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Southern Fairy Island [D6], in the chest that appears after destroying the cannons on the western platform.",
+                "name": null
+            },
+            {
+                "id": "bombbag-bigger",
+                "itemRef": "bombbag",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "From the Great Fairy on Southern Fairy Island [D6].",
+                "name": null
+            },
+            {
+                "id": "hp-chart-15",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the waters outside Angular Isles [E7].",
+                "name": null
+            },
+            {
+                "id": "hp-angular",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Angular Isles [E7], in a chest on the top of the island.",
+                "name": null
+            },
+            {
+                "id": "chart-submarine",
+                "itemRef": "chart-submarine",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Boating Course [F7], in the cave on the north side of the banner.",
+                "name": null
+            },
+            {
+                "id": "hp-chart-33",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the waters outside Five-Star Isles [G6].",
+                "name": null
+            },
+            {
+                "id": "hp-fivestar-submarine",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Five-Star Isles [G6], in the submarine south of the island.",
+                "name": null
+            },
+            {
+                "id": "chart-25",
+                "itemRef": "chart-25",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Cliff Plateau Isles [G6], on the top of the tallest plateau.",
+                "name": null
+            },
+            {
+                "id": "chart-44",
+                "itemRef": "chart-44",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Star Belt Archipelago [G3], on top of the platform guarded by Bokoblins.",
+                "name": null
+            },
+            {
+                "id": "chart-platform",
+                "itemRef": "chart-platform",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Flight Control Platform [G2], defeat all the Red Wizzrobes inside the submarine southeast of the platform. (It's possible now with bombs, but easier if you wait until you have the {{bow}}.)",
+                "name": null
+            },
+            {
+                "id": "hp-flightplatform",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Flight Control Platform [G2], pass the champion's mark on the flying test. (Fly as straight as possible, only turning slightly to hit one updraft.)",
+                "name": null
+            },
+            {
+                "id": "hp-bigocto-sevenstar",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Seven-Star Isles [F1], defeat the Big Octo southwest of the isles.",
+                "name": null
+            },
+            {
+                "id": "chart-16",
+                "itemRef": "chart-16",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Seven-Star Isles [F1], defeat the Wizzrobes on the platforms south of the isles. (It's possible now with bombs, but easier if you wait until you have the {{bow}}.)",
+                "name": null
+            },
+            {
+                "id": "chart-9",
+                "itemRef": "chart-9",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Crescent Moon Island [E1], in the submarine north of the island.",
+                "name": null
+            },
+            {
+                "id": "hp-chart-11",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the waters outside Crescent Moon Island [E1].",
+                "name": null
+            },
+            {
+                "id": "chart-10",
+                "itemRef": "chart-10",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Crescent Moon Island [E1], in a chest in plain sight.",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "Windfall Island [D2]",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "chart-42",
+                "itemRef": "chart-42",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Give three Skull Necklaces to the man standing near the Bomb Shop and play his game.",
+                "name": null
+            },
+            {
+                "id": "info-joypendants",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": "mandatory,rupeecharts",
+                "type": null,
+                "subheader": null,
+                "description": "If you have 20 or 40 Joy Pendants now, you can give them to Mrs. Marie for the {{cabanadeed}} and {{chart-45}} (leading to 200 Rupees), respectively. They will be covered later.",
+                "name": null
+            },
+            {
+                "id": "chart-24",
+                "itemRef": "chart-24",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Show Pompie and Vera (the gossips) the picture you took of Lenzo and the woman the last time you were here.",
+                "name": null
+            },
+            {
+                "id": "magicarmor",
+                "itemRef": "magicarmor",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Given to you by Zunari (after obtaining the Sea Flower and the Exotic Flower earlier).",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "More Great Sea Goodies",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "info-place-pearl-din",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Place Din's Pearl in the statue at Northern Triangle Isle.",
+                "name": null
+            },
+            {
+                "id": "bombbag-biggest",
+                "itemRef": "bombbag",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "From the Great Fairy on Eastern Fairy Island [E3].",
+                "name": null
+            },
+            {
+                "id": "bigocto-firemountain",
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Fire Mountain [F3], defeat the Big Octo.",
+                "name": "100 Rupees"
+            },
+            {
+                "id": "info-place-pearl-farore",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Place Farore's Pearl in the statue at Eastern Triangle Isle.",
+                "name": null
+            },
+            {
+                "id": "info-tradingsequence-fountainidol",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": "heartpieces",
+                "type": null,
+                "subheader": null,
+                "description": "Bomb Island [F5]: Trade the Exotic Flower for a Sickle Moon Flag, and trade it back for a Fountain Idol (required for {{hp-tradingsequence}}).",
+                "name": null
+            },
+            {
+                "id": "hp-bombisland",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Bomb Island [F5], in the cave below the boulder on top of the island.",
+                "name": null
+            },
+            {
+                "id": "info-place-pearl-nayru",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Place Nayru's Pearl in the statue at Southern Triangle Isle.",
+                "name": null
+            },
+            {
+                "id": "hp-stonewatcher-platforms",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Stone Watcher Island [C5], destroy all eight cannons on the platform east of the island.",
+                "name": null
+            },
+            {
+                "id": "hp-barrelshoot",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Spectacle Island [C2], beat the Barrel Shoot game.",
+                "name": null
+            },
+            {
+                "id": "chart-17",
+                "itemRef": "chart-17",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Spectacle Island [C2], beat the Barrel Shoot game for the second time.",
+                "name": null
+            },
+            {
+                "id": "info-tradingsequence-bigsaleflag",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": "heartpieces",
+                "type": null,
+                "subheader": null,
+                "description": "Mother and Child Isles [B2]: Trade the Fountain Idol for a Big Sale Flag (required for {{hp-tradingsequence}}).",
+                "name": null
+            },
+            {
+                "id": "bottle-beedle",
+                "itemRef": "bottles",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Rock Spire Isle [B3], purchase from Beedle for 500 Rupees.",
+                "name": null
+            },
+            {
+                "id": "hp-beedle",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Rock Spire Isle [B3], purchase from Beedle for 950 Rupees.",
+                "name": null
+            },
+            {
+                "id": "chart-4",
+                "itemRef": "chart-4",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Rock Spire Isle [B3], purchase from Beedle for 900 Rupees.",
+                "name": null
+            },
+            {
+                "id": "info-rupees",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "After having purchased the expensive items from Beedle's special shop, the only large expense left is 1200 Rupees at the end of the game. So if you don't really care about Treasure Charts that lead to Rupees, it's safe to hide them now using the settings at the top of the guide.",
+                "name": null
+            },
+            {
+                "id": "info-tradingsequence-postmanstatue",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": "heartpieces",
+                "type": null,
+                "subheader": null,
+                "description": "Greatfish Isle [B4]: Trade the Big Sale Flag for a Hero's Flag, and trade it back for the Postman Statue (required for {{hp-tradingsequence}}).",
+                "name": null
+            },
+            {
+                "id": "info-tradingsequence-shopgurustatue",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": "heartpieces",
+                "type": null,
+                "subheader": null,
+                "description": "Mother and Child Isles [B2]: Trade the Postman Statue for the Shop Guru Statue (required for {{hp-tradingsequence}}).",
+                "name": null
+            },
+            {
+                "id": "hp-tradingsequence",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Greatfish Isle [B4], give the Shop Guru Statue to the merchant.",
+                "name": null
+            },
+            {
+                "id": "cabanadeed",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Windfall Island [D2], give 20 Joy Pendants to Mrs. Marie (mandatory at some point in the game).",
+                "name": "Cabana Deed"
+            },
+            {
+                "id": "chart-45",
+                "itemRef": "chart-45",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Windfall Island [D2], give 40 Joy Pendants to Mrs. Marie.",
+                "name": null
+            },
+            {
+                "id": "hp-chart-4",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the waters outside Southern Fairy Island [D6].",
+                "name": null
+            }
+        ]
+    },
+    "towerofthegods": {
+        "header": "Tower of the Gods",
+        "entries": [
+            {
+                "id": "towerofthegods-map",
+                "itemRef": "dungeonmap",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Through the southeastern door in the first room while the water is low, behind a cracked wall.",
+                "name": null
+            },
+            {
+                "id": "towerofthegods-compass",
+                "itemRef": "compass",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "West of the first room.",
+                "name": null
+            },
+            {
+                "id": "song-command",
+                "itemRef": "song-command",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "bow",
+                "itemRef": "bow",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "chart-6",
+                "itemRef": "chart-6",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the northwestern room on the first floor.",
+                "name": null
+            },
+            {
+                "id": "chart-30",
+                "itemRef": "chart-30",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "On the second floor, in the room with the scales that you need to weight down using statues, bomb the west wall and play the Wind's Requiem on the stand.",
+                "name": null
+            },
+            {
+                "id": "towerofthegods-heartcontainer",
+                "itemRef": "heartcontainer",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "After defeating the boss.",
+                "name": null
+            }
+        ]
+    },
+    "greatsea-aftertowerofthegods": {
+        "header": "More Great Sea goodies",
+        "entries": [
+            {
+                "id": "sword-master",
+                "itemRef": "sword",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "info-knightscrests",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Remember to get Knight's Crests from the Darknuts (you're guaranteed to get them if you remove their helmets and use the Grappling Hook). You need 10 to get the {{hurricanespin}}.",
+                "name": null
+            },
+            {
+                "id": "song-gales",
+                "itemRef": "song-gales",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory (at some point), shoot down Cyclos (for example at Northern Triangle Isle).",
+                "name": null
+            },
+            {
+                "id": "hp-chart-30",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the waters outside Pawprint Isle [E2].",
+                "name": null
+            },
+            {
+                "id": "hurricanespin",
+                "itemRef": "hurricanespin",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Outset Island [B7], give 10 Knight's Crests to Orca.",
+                "name": null
+            },
+            {
+                "id": "hp-dekutrees",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Speak to the Great Deku Tree in Forest Haven [F6] and water the eight withered Deku Trees: 1) Cliff Plateau Isles [G6] (sail east from Forest Haven and go through the cave). 2) Shark Island [C6] (warp to Southern Fairy Island [D6] and sail west). 3) Greatfish Isle [B4] (warp here and follow the corkscrew path up to the top of the hill). 4) Needle Rock Isle [A5] (sail southwest from Greatfish Isle). 5) Private Oasis [E5] (warp to Tower of the Gods [E4] and sail south). 6) Eastern Fairy Island [E3] (warp to Tower of the Gods again and sail north). 7) Mother and Child Isles [B2] (don't warp there - warp to Tingle Island [C3] and sail northwest). 8) Star Island [B1] (sail north from Mother and Child Isles).",
+                "name": null
+            }
+        ]
+    },
+    "forsakenfortressrevisited": {
+        "header": "Forsaken Fortress revisited",
+        "entries": [
+            {
+                "id": "skullhammer",
+                "itemRef": "skullhammer",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "forsakenfortress-heartcontainer",
+                "itemRef": "heartcontainer",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "After defeating the boss.",
+                "name": null
+            }
+        ]
+    },
+    "find-earthtemple": {
+        "header": "Finding the Earth Temple",
+        "entries": [
+            {
+                "id": "fireicearrows",
+                "itemRef": "fireicearrows",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory (at some point), warp to Mother and Child Isles [B2].",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "Windfall Island [D2]",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "chart-incredible",
+                "itemRef": "chart-incredible",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In any Postbox after rescuing the girls from the Forsaken Fortress.",
+                "name": null
+            },
+            {
+                "id": "chart-2",
+                "itemRef": "chart-2",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Bring 20 Skull Necklaces to Maggie's Father in the House of Wealth.",
+                "name": null
+            },
+            {
+                "id": "hp-maggie",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Speak to Maggie in the House of Wealth an deliver her letter. Come back later and follow the postman to the caf\u00e9. Take his letter and deliver it to Maggie.",
+                "name": null
+            },
+            {
+                "id": "hp-lighthouse",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "At night, point the wind north, ride the Ferris Wheel and shoot a Fire Arrow into the center of the rotating beacon. Speak to the guy near the Ferris Wheel.",
+                "name": null
+            },
+            {
+                "id": "hp-lighthouse-chest",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "After igniting the lighthouse beacon, point the wind southwest and glide from the top of the Ferris wheel to the chest that appeared on the small island just outside the Bomb Shop.",
+                "name": null
+            },
+            {
+                "id": "bottle-mila",
+                "itemRef": "bottles",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Follow Mila at night and catch her in the act of breaking into Zunari's safe. Select the default responses.",
+                "name": null
+            },
+            {
+                "id": null,
+                "itemRef": null,
+                "checkbox": null,
+                "filters": null,
+                "type": "subheading",
+                "subheader": "The Great Sea",
+                "description": null,
+                "name": null
+            },
+            {
+                "id": "chart-32",
+                "itemRef": "chart-32",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In Three-Eye Reef [A4], destroy all the cannons on the walls of the reef.",
+                "name": null
+            },
+            {
+                "id": "quiver-bigger",
+                "itemRef": "quiver",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "From the Great Fairy on Western Fairy Island [A3].",
+                "name": null
+            },
+            {
+                "id": "hp-chart-2",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the waters outside Rock Spire Isle [B3].",
+                "name": null
+            },
+            {
+                "id": "chart-19",
+                "itemRef": "chart-19",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In Four-Eye Reef [A2], destroy all the cannons on the walls of the reef.",
+                "name": null
+            },
+            {
+                "id": "chart-21",
+                "itemRef": "chart-21",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In Cyclops Reef [C4], destroy all the cannons.",
+                "name": null
+            },
+            {
+                "id": "chart-26",
+                "itemRef": "chart-26",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In Six-Eye Reef [D4], destroy all the cannons on the walls of the reef.",
+                "name": null
+            },
+            {
+                "id": "powerbracelets",
+                "itemRef": "powerbracelets",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory (at some point), on Fire Island.",
+                "name": null
+            },
+            {
+                "id": "quiver-biggest",
+                "itemRef": "quiver",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "From the Great Fairy on Thorned Fairy Island [G4].",
+                "name": null
+            },
+            {
+                "id": "chart-36",
+                "itemRef": "chart-36",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Ice Ring Isle [E6], on the east side of the island.",
+                "name": null
+            },
+            {
+                "id": "ironboots",
+                "itemRef": "ironboots",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory (at some point), on Ice Ring Isle [E6].",
+                "name": null
+            },
+            {
+                "id": "chart-13",
+                "itemRef": "chart-13",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In Two Eye Reef, destroy all the cannons on the walls of the reef.",
+                "name": null
+            },
+            {
+                "id": "hp-pig",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Outset Island [B7], carry Rose's huge pig across the bridge to the black patch of dirt and throw some All-Purpose Bait on the dirt.",
+                "name": null
+            },
+            {
+                "id": "chart-41",
+                "itemRef": "chart-41",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In Two-Eye Reef [D7], destroy all the cannons on the walls of the reef.",
+                "name": null
+            },
+            {
+                "id": "song-earthgod",
+                "itemRef": "song-earthgod",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory (Headstone Island [C7]).",
+                "name": null
+            }
+        ]
+    },
+    "earthtemple": {
+        "header": "Earth Temple",
+        "entries": [
+            {
+                "id": "earthtemple-map",
+                "itemRef": "dungeonmap",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Hard to miss. In the room with the first Warp Pot and the ChuChus.",
+                "name": null
+            },
+            {
+                "id": "earthtemple-compass",
+                "itemRef": "compass",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Hard to miss. In the room with the Floormaster where you have to pull around small boxes.",
+                "name": null
+            },
+            {
+                "id": "mirrorshield",
+                "itemRef": "shield",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "chart-20",
+                "itemRef": "chart-20",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the room in the first basement with lots of mist on the floor, kill all the Floor Masters.",
+                "name": null
+            },
+            {
+                "id": "chart-12",
+                "itemRef": "chart-12",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the westernmost room in the second basement.",
+                "name": null
+            },
+            {
+                "id": "earthtemple-heartcontainer",
+                "itemRef": "heartcontainer",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "After defeating the boss.",
+                "name": null
+            }
+        ]
+    },
+    "find-windtemple": {
+        "header": "Finding the Wind Temple",
+        "entries": [
+            {
+                "id": "info-savagelabyrinth",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "You can now finish the Savage Labyrinth and get the {{heroscharm}} as well as {{triforce-shard-savagelabyrinth}}. These items are covered later, when you are actually supposed to look for the Triforce Shards.",
+                "name": null
+            },
+            {
+                "id": "hp-chart-20",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the waters outside Bomb Island [F5].",
+                "name": null
+            },
+            {
+                "id": "song-windgod",
+                "itemRef": "song-windgod",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory (Gale Isle [D1]).",
+                "name": null
+            }
+        ]
+    },
+    "windtemple": {
+        "header": "Wind Temple",
+        "entries": [
+            {
+                "id": "windtemple-map",
+                "itemRef": "dungeonmap",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the big/long room on the first floor with all the updrafts and large fences.",
+                "name": null
+            },
+            {
+                "id": "windtemple-compass",
+                "itemRef": "compass",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Halfway down the large shaft between the first floor and the basement.",
+                "name": null
+            },
+            {
+                "id": "chart-35",
+                "itemRef": "chart-35",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the basement, in the room with the thrusting spikes, drop through each of the five holes with the Iron Boots.",
+                "name": null
+            },
+            {
+                "id": "hookshot",
+                "itemRef": "hookshot",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory.",
+                "name": null
+            },
+            {
+                "id": "chart-5",
+                "itemRef": "chart-5",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Shortly before the boss, in the room with a Yellow Wizzrobe and two Stalfoses, pull down all the stone faces on the walls and defeat all the enemies.",
+                "name": null
+            },
+            {
+                "id": "windtemple-heartcontainer",
+                "itemRef": "heartcontainer",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "After defeating the boss.",
+                "name": null
+            }
+        ]
+    },
+    "thetriforce": {
+        "header": "The Triforce of Courage",
+        "entries": [
+            {
+                "id": "triforce-shard-savagelabyrinth",
+                "itemRef": "triforceshard",
+                "checkbox": null,
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Outset Island [B7], on floor 30 of the Savage Labyrinth.",
+                "name": null
+            },
+            {
+                "id": "heroscharm",
+                "itemRef": "heroscharm",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Outset Island [B7], on floor 50 of the Savage Labyrinth.",
+                "name": null
+            },
+            {
+                "id": "chart-ghostship",
+                "itemRef": "chart-ghostship",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Diamond Steppe Island [A6], in the cave.",
+                "name": null
+            },
+            {
+                "id": "chart-triforce-3",
+                "itemRef": "chart-triforce-3",
+                "checkbox": null,
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "By Needle Rock Isle [A5], shoot down the golden ship.",
+                "name": null
+            },
+            {
+                "id": "chart-triforce-1",
+                "itemRef": "chart-triforce-1",
+                "checkbox": null,
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Inside the Islet of Steel [B5].",
+                "name": null
+            },
+            {
+                "id": "chart-triforce-2",
+                "itemRef": "chart-triforce-2",
+                "checkbox": null,
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "On Bird's Peak Rock [G5].",
+                "name": null
+            },
+            {
+                "id": "hp-chart-5",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the waters outside Thorned Fairy Island [G4].",
+                "name": null
+            },
+            {
+                "id": "info-tingle-decipher",
+                "itemRef": null,
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Let Tingle (on Tingle Island [C3]) decipher the Triforce Charts (1200 Rupees total).",
+                "name": null
+            },
+            {
+                "id": "chart-46",
+                "itemRef": "chart-46",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Pawprint Isle [E2], inside the cave.",
+                "name": null
+            },
+            {
+                "id": "triforce-shard-greatfish",
+                "itemRef": "triforceshard",
+                "checkbox": null,
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "In the waters outside Greatfish Isle [B4].",
+                "name": null
+            },
+            {
+                "id": "triforce-shard-stonewatcher",
+                "itemRef": "triforceshard",
+                "checkbox": null,
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "In the waters outside Stone Watcher Island [C5].",
+                "name": null
+            },
+            {
+                "id": "triforce-shard-stonewatcher-cave",
+                "itemRef": "triforceshard",
+                "checkbox": null,
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Inside the cave on Stone Watcher Island [C5].",
+                "name": null
+            },
+            {
+                "id": "triforce-shard-privateoasis",
+                "itemRef": "triforceshard",
+                "checkbox": null,
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Private Oasis [E5], find and complete the maze.",
+                "name": null
+            },
+            {
+                "id": "chart-27",
+                "itemRef": "chart-27",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "Private Oasis [E5], Hookshot to the tree on the ledge from the back of the cabana.",
+                "name": null
+            },
+            {
+                "id": "hp-chart-46",
+                "itemRef": "heartpieces",
+                "checkbox": null,
+                "filters": null,
+                "type": null,
+                "subheader": null,
+                "description": "In the waters outside Two-Eye Reef [D7].",
+                "name": null
+            },
+            {
+                "id": "triforce-shard-cliffplateau",
+                "itemRef": "triforceshard",
+                "checkbox": null,
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "In the waters outside Cliff Plateau Isles [G6].",
+                "name": null
+            },
+            {
+                "id": "triforce-shard-overlook",
+                "itemRef": "triforceshard",
+                "checkbox": null,
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "In the cave on Overlook Island [G1].",
+                "name": null
+            },
+            {
+                "id": "triforce-shard-ghostship",
+                "itemRef": "triforceshard",
+                "checkbox": null,
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "In the Ghost Ship.",
+                "name": null
+            },
+            {
+                "id": "triforce",
+                "itemRef": "triforce",
+                "checkbox": "false",
+                "filters": "mandatory",
+                "type": null,
+                "subheader": null,
+                "description": "Mandatory (you get it when you have collected all the Triforce Shards).",
+                "name": null
+            }
+        ]
+    }
+}

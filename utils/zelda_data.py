@@ -23,6 +23,7 @@ def parse_zelda_data(root):
                 'type': entry.get('type') if entry.get('type') is not None else None,
                 'subheader': subheader,
                 'description': entry.find('description').text if entry.find('description') is not None else None,
+                'name': entry.find('name').text if entry.find('name') is not None else None
             }
             entries.append(entry_data)
 
